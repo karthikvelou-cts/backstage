@@ -35,4 +35,4 @@ spec:
     - sonarscan-testing-api
   type: service
   lifecycle: experimental
-  owner: role:catalog-admin
+  owner: "group:default/catalog-admin"
