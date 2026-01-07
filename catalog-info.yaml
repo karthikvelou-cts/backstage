@@ -16,8 +16,8 @@ metadata:
     # Add the following annotation to the component to enable the Code Quality plugin
     flowsource/sonarqube-project-key: springboot-app-demo 
     # Add the following annotation to the component to enable the Github PR plugin 
-    flowsource/github-repo-owner: TheCognizantFoundry
-    flowsource/github-repo-name: flowsource-sonartest
+    flowsource/github-repo-owner: karthikvelou-cts
+    flowsource/github-repo-name: jobbee-api
     # Add the following annotation to the component to enable the Checkmarx plugin
     flowsource/checkmarx-project-id: sonarscan-testing
     # Add the following annotation to the component to enable the Blackduck plugin
