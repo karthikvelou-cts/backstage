@@ -27,9 +27,9 @@ metadata:
     'backstage.io/kubernetes-label-selector': 'app=sonarscan-testing'
     #Add the following annotation to the component to enable the Jira plugin
      flowsource/jira-project-key: NEXTERA-IT
-    # flowsource/jira-filter-field-value: ''
-    # flowsource/jira-filter-field-key: ''
-    # flowsource/jira-enable-current-sprint: 'true' 
+     flowsource/jira-filter-field-value: ''
+     flowsource/jira-filter-field-key: ''
+     flowsource/jira-enable-current-sprint: 'true' 
 spec:
   providesApis:
     - sonarscan-testing-api
