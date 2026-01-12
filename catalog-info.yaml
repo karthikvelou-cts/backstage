@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: "TestComponent"
-  appid: TestComponent
+  name: "FlowSource Web App"
+  appid: FlowSourceWebApp
   description: "today demo"
   annotations:
     github.com/project-slug: karthikvelou-cts/backstage
