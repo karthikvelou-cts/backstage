@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: "Expense Web App"
-  appid: ExpenseWebApp
+  name: "Expense Component"
+  appid: ExpenseComponent
   description: "today demo"
   annotations:
     github.com/project-slug: karthikvelou-cts/backstage
